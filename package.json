@@ -1,0 +1,14 @@
+{
+  "name": "@uno_ui/cli",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "getShCc",
+  "license": "MIT",
+  "description": "unoui cli",
+  "bin": {
+    "unoui": "bin/index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
